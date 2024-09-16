@@ -23,6 +23,8 @@ Ciclo Formativo de Grado Superior
 - Las Rozas de Madrid (Madrid)
 - U-TAD (Centro Universitario de Tecnología y Arte Digital)
 
+![imagen de la U-TAD](https://www.ucjc.edu/la-universidad/wp-content/uploads/sites/2/2023/06/logo-utad.jpg)
+
 
 ### TÉCNICO EN SISTEMAS MICROINFOMÁTICOS Y REDES.
 Ciclo Formativo de Grado Medio
@@ -30,6 +32,7 @@ Ciclo Formativo de Grado Medio
 - Humanes de Madrid (Madrid)
 - CampusFP Humanes Emprende
 
+![imagen de la U-TAD](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQADdoWECyYRMgRt_3jC_l4Gogl_j0lUQjkcNP5BVAaG90__AqfkAI8IJP-OA3rBjK4cc&usqp=CAU)
 
 Actualmente estoy en mi último año, donde me estoy especializando en temas como:
 
