@@ -76,4 +76,4 @@ Prácticas Sistemas de la Información / Formación Profesional de Grado Medio.
 
 ## Contacto:
 - 📧 [mei.nunez@live.u-tad.com]
-- 💼 [Tu perfil LinkedIn o cualquier otro enlace profesional]
+- 💼 [www.linkedin.com/in/meinunezsanz]
