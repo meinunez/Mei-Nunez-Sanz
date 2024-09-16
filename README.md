@@ -2,7 +2,7 @@
 
 ¡Hola! **Me llamo Mei Nuñez Sanz**.
 
-En este repositorio encontrarás algunos de los proyectos y prácticas que he desarrollado a lo largo de mi formación.
+En este repositorio encontrarás información sobre mí y prácticas que he desarrollado a lo largo de mi formación.
 
 
 ## Datos Personales 😃
